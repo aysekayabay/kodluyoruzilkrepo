@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 # ![image](https://user-images.githubusercontent.com/74185399/181580940-9c393e47-09c9-4ff4-ba28-a5accf403201.png)
 ## Installation
-  Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
     git clone https://github.com/aysekayabay/kodluyoruzilkrepo.git
     
 
